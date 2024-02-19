@@ -1,0 +1,10 @@
+<items gfxroot="gfx/items/" version="1">
+	<passive cache="firedelay luck" 
+	description="Regain your confidence with clearer and healthier skin today!" 
+	gfx="ointment_item.png" 
+	id="1" 
+	hearts="99"
+	maxhearts="2" 
+	name="Ointment" />
+</items>
+
