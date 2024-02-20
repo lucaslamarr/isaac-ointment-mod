@@ -1,3 +1,11 @@
+# Installing 
+
+Place the folder **Ointment Item** inside of the game's install directory. 
+
+Steam: ```C:\Program Files\Steam\steamapps\common\The Binding of Isaac Rebirth\mods\Ointment Item```
+
+Accessing the mod manager from the game's main menu will now display **Ointment Item** which can be activated or deactivated quickly from this screen.
+
 # Item Details
 
 Although **The Binding of Isaac** is a relatively mature game, I wanted to add a custom item that was both thematically fitting and appropriate for younger players.
